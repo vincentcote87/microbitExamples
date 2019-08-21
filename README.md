@@ -1,6 +1,6 @@
 # micro:bit Coding Examples
 
-This repository can be used for anyone with a micro:bit, in a coding workshop for kids or on your own using the online [micro:bit editor](https://makecode.microbit.org/). All the examples can be found on the [micro:bit](https://microbit.org/code/) web site. Each folder includes a different example with a Javascript file as well as a .hex file. To run the the code on your micro:bit simply copy the .hex file onto your micro:bit when it is plugged into your computer.
+This repository can be used for anyone with a micro:bit, in a coding workshop for kids or on your own using the online [micro:bit editor](https://makecode.microbit.org/). All the examples can be found on the [micro:bit](https://microbit.org/code/) web site. Each folder includes a different example with a Javascript file as well as a .hex file. To run the code on your micro:bit simply copy the .hex file onto your micro:bit while it is plugged into your computer.
 
 The projects in this repo are as follows:
 
